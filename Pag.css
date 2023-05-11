@@ -1,0 +1,22 @@
+body {
+    background-color: #ffeb36;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 36px;
+    text-align: center;
+    padding: 20px;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    font-size: 28px;
+    padding: 10px;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    font-size: 28px;
+    padding: 10px;
+}
